@@ -73,4 +73,5 @@ Formatter.prototype.sourceFiles = function(data) {
   return source_files;
 }
 
+
 module.exports = Formatter;
